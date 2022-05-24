@@ -1,3 +1,3 @@
-$(".button").on("click", (function(){
-    $(".weight").hide();
+$(".calorieButt").on("click", (function(){
+    $(".calories").text("2200");
 }));
